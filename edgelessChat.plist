@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.31.187/apk/Edgeless.ipa</string>
+					<string>https://github.com/wjx0805/testGit/blob/master/Edgeless.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
